@@ -228,3 +228,4 @@ print(f'Cat-T09:{acerto_cat_t9}') # R: 0.8534832252055329
 Dos testes realizados o que teve melhor performance foi utilizando Catboost, 
 com todos atributos previsores e tratamento do atributo alvo (y).
 """
+
