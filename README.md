@@ -1,6 +1,9 @@
 # Data_Science_Projects
 
-This repository will be used to present some data science projects written in Python.
+This repository will be used to present some projects written in Python/Pyspark.
 
-The "real_estate_market" project has two files, a database and a python file for working with algorithms.
-In this project, 09 tests were performed. The database of predictive attributes was analyzed and processed, and different algorithms were used to obtain better accuracy.
+The "kernels_project" project is a data science project that uses Unsupervised Learning (k-means clustering) to classify kernels.
+
+The "real_estate_market" project is a data science project that uses Supervised Learning for pricing in the real estate market in Seattle, USA.
+
+In each project, there are files such as the database (.csv) used, and notebook files for working with algorithms.
