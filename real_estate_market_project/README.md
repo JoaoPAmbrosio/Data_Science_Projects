@@ -4,7 +4,7 @@ The goal of this project is to provide solution on how to price properties . For
 An old real estate agency located in Seattle, Washington, has been operating in the city for a long time and, in search of new market trends, wants to offer more services in addition to the traditional ones, such as renting, selling or buying real estate. <br/>
 One new service that is proving lucrative is real estate pricing, but there aren't enough people to work with. As the process is time-consuming, clients are looking for other companies and money is being lost.<br/>
 
-For this project, all the data was analyzed using them together and separately, using graphs and maps and more than 08 tests were carried out with different algorithms to obtain the best results.
+For this project, all the data was analyzed using them together and separately, using graphs and maps and more than 07 tests were carried out with different algorithms to obtain the best results.
 
 All models was used using pyspark with Spark's MLlib.
 
