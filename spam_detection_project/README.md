@@ -6,4 +6,4 @@ Unwanted messages, also known as spam, cause email users to waste a lot of time.
 The dataset consists of text messages from volunteers in a study in Singapore and some spam text messages from a UK reporting site mixed together.<br/>
 To complete this project all the data was studied and maching learning models was created to do the predictions. <br/> 
 All models was used using pyspark with Spark's MLlib. <br/>
-The data used is in the file "SMSSpamCollection.csv" in csv format and, after being received, was processed for later use by ML.
+The data used is in the file "SMSSpamCollection" in csv format and, after being received, was processed for later use by ML.
